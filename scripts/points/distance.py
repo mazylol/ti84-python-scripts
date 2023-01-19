@@ -1,4 +1,4 @@
-#pylint: disable=missing-docstring
+'''This script calculates the distance between two points in a plane.'''
 
 from math import sqrt
 
