@@ -1,0 +1,20 @@
+{
+  "name": "Python 3",
+  "image": "mcr.microsoft.com/devcontainers/python:0-3.11-bullseye",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/coverage-py:2": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+		    "EditorConfig.EditorConfig",
+		    "VisualStudioExptTeam.vscodeintellicode",
+		    "ms-python.vscode-pylance",
+		    "ms-python.python",
+		    "KevinRose.vsc-python-indent",
+		    "njpwerner.autodocstring",
+		    "GitHub.copilot"
+	    ]
+    }
+  }
+}
