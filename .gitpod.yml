@@ -11,8 +11,6 @@ tasks:
 vscode:
   extensions:
     - "EditorConfig.EditorConfig"
-    - "VisualStudioExptTeam.vscodeintellicode"
-    - "ms-python.vscode-pylance"
     - "ms-python.python"
     - "KevinRose.vsc-python-indent"
     - "njpwerner.autodocstring"
