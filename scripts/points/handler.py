@@ -1,0 +1,2 @@
+def handlePoints():
+    print("hallo")
