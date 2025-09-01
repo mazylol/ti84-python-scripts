@@ -2,11 +2,12 @@
 
 from math import sqrt
 
-while True:
-    a = int(input("Side A: "))
-    b = int(input("Side B: "))
+def pythagorean():
+    while True:
+        a = int(input("Side A: "))
+        b = int(input("Side B: "))
 
-    prod = (a ** 2) + (b ** 2)
-    root = sqrt(prod)
+        prod = (a ** 2) + (b ** 2)
+        root = sqrt(prod)
 
-    print(root)
+        print(root)
